@@ -1,3 +1,3 @@
 function hi(){
-	document.getElementById("hi").style.display = "block";
+	document.getElementById("hi").innerHTML = "Hello by Js";
 }
