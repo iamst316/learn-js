@@ -1,3 +1,22 @@
-h1{
-	color: red;
+
+.box1,.box2,.box3,.box4{
+	background-color:  #ff8b25;
+	color:  #d8dadd;
+	height: 200px;
+	width: 200px;
+	margin: 1.5rem;
+	text-align: center;
+}
+html{
+	background-color:  #ff4d4d;
+}
+.container{
+	display: flex;
+	background-color:  #ff8baa;
+	box-shadow: 4px 4px #adadad;
+	justify-content: center;
+	column-gap: 20px;
+}
+#hi{
+	display: none;
 }
